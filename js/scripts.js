@@ -8,131 +8,131 @@ $(document).ready(function() {
     $("#JS-def").fadeToggle();
   });
   
-  $("#JS").click(function() {
-    $("#JS-def").fadeToggle();
+  $("#operators").click(function() {
+    $("#operators-def").fadeToggle();
   });
-  $("#JS-def").click(function() {
-    $("#JS-def").fadeToggle();
-  });
-
-  $("#JS").click(function() {
-    $("#JS-def").fadeToggle();
-  });
-  $("#JS-def").click(function() {
-    $("#JS-def").fadeToggle();
+  $("#operators-def").click(function() {
+    $("#operators-def").fadeToggle();
   });
 
-  $("#JS").click(function() {
-    $("#JS-def").fadeToggle();
+  $("#variables").click(function() {
+    $("#variables-def").fadeToggle();
   });
-  $("#JS-def").click(function() {
-    $("#JS-def").fadeToggle();
-  });
-
-  $("#JS").click(function() {
-    $("#JS-def").fadeToggle();
-  });
-  $("#JS-def").click(function() {
-    $("#JS-def").fadeToggle();
+  $("#variables-def").click(function() {
+    $("#variables-def").fadeToggle();
   });
 
-  $("#JS").click(function() {
-    $("#JS-def").fadeToggle();
+  $("#vnc").click(function() {
+    $("#vnc-def").fadeToggle();
   });
-  $("#JS-def").click(function() {
-    $("#JS-def").fadeToggle();
-  });
-
-  $("#JS").click(function() {
-    $("#JS-def").fadeToggle();
-  });
-  $("#JS-def").click(function() {
-    $("#JS-def").fadeToggle();
+  $("#vnc-def").click(function() {
+    $("#vnc-def").fadeToggle();
   });
 
-  $("#JS").click(function() {
-    $("#JS-def").fadeToggle();
+  $("#functions").click(function() {
+    $("#functions-def").fadeToggle();
   });
-  $("#JS-def").click(function() {
-    $("#JS-def").fadeToggle();
-  });
-
-  $("#JS").click(function() {
-    $("#JS-def").fadeToggle();
-  });
-  $("#JS-def").click(function() {
-    $("#JS-def").fadeToggle();
+  $("#functions-def").click(function() {
+    $("#functions-def").fadeToggle();
   });
 
-  $("#JS").click(function() {
-    $("#JS-def").fadeToggle();
+  $("#methods").click(function() {
+    $("#methods-def").fadeToggle();
   });
-  $("#JS-def").click(function() {
-    $("#JS-def").fadeToggle();
-  });
-
-  $("#JS").click(function() {
-    $("#JS-def").fadeToggle();
-  });
-  $("#JS-def").click(function() {
-    $("#JS-def").fadeToggle();
+  $("#methods-def").click(function() {
+    $("#methods-def").fadeToggle();
   });
 
-  $("#JS").click(function() {
-    $("#JS-def").fadeToggle();
+  $("#arguments").click(function() {
+    $("#arguments-def").fadeToggle();
   });
-  $("#JS-def").click(function() {
-    $("#JS-def").fadeToggle();
-  });
-
-  $("#JS").click(function() {
-    $("#JS-def").fadeToggle();
-  });
-  $("#JS-def").click(function() {
-    $("#JS-def").fadeToggle();
+  $("#arguments-def").click(function() {
+    $("#arguments-def").fadeToggle();
   });
 
-  $("#JS").click(function() {
-    $("#JS-def").fadeToggle();
+  $("#parameters").click(function() {
+    $("#parameters-def").fadeToggle();
   });
-  $("#JS-def").click(function() {
-    $("#JS-def").fadeToggle();
-  });
-
-  $("#JS").click(function() {
-    $("#JS-def").fadeToggle();
-  });
-  $("#JS-def").click(function() {
-    $("#JS-def").fadeToggle();
+  $("#parameters-def").click(function() {
+    $("#parameters-def").fadeToggle();
   });
 
-  $("#JS").click(function() {
-    $("#JS-def").fadeToggle();
-  });
-  $("#JS-def").click(function() {
-    $("#JS-def").fadeToggle();
-  });
+  // $("#JS").click(function() {
+  //   $("#JS-def").fadeToggle();
+  // });
+  // $("#JS-def").click(function() {
+  //   $("#JS-def").fadeToggle();
+  // });
 
-  $("#JS").click(function() {
-    $("#JS-def").fadeToggle();
-  });
-  $("#JS-def").click(function() {
-    $("#JS-def").fadeToggle();
-  });
+  // $("#JS").click(function() {
+  //   $("#JS-def").fadeToggle();
+  // });
+  // $("#JS-def").click(function() {
+  //   $("#JS-def").fadeToggle();
+  // });
 
-  $("#JS").click(function() {
-    $("#JS-def").fadeToggle();
-  });
-  $("#JS-def").click(function() {
-    $("#JS-def").fadeToggle();
-  });
+  // $("#JS").click(function() {
+  //   $("#JS-def").fadeToggle();
+  // });
+  // $("#JS-def").click(function() {
+  //   $("#JS-def").fadeToggle();
+  // });
 
-  $("#JS").click(function() {
-    $("#JS-def").fadeToggle();
-  });
-  $("#JS-def").click(function() {
-    $("#JS-def").fadeToggle();
-  });
+  // $("#JS").click(function() {
+  //   $("#JS-def").fadeToggle();
+  // });
+  // $("#JS-def").click(function() {
+  //   $("#JS-def").fadeToggle();
+  // });
+
+  // $("#JS").click(function() {
+  //   $("#JS-def").fadeToggle();
+  // });
+  // $("#JS-def").click(function() {
+  //   $("#JS-def").fadeToggle();
+  // });
+
+  // $("#JS").click(function() {
+  //   $("#JS-def").fadeToggle();
+  // });
+  // $("#JS-def").click(function() {
+  //   $("#JS-def").fadeToggle();
+  // });
+
+  // $("#JS").click(function() {
+  //   $("#JS-def").fadeToggle();
+  // });
+  // $("#JS-def").click(function() {
+  //   $("#JS-def").fadeToggle();
+  // });
+
+  // $("#JS").click(function() {
+  //   $("#JS-def").fadeToggle();
+  // });
+  // $("#JS-def").click(function() {
+  //   $("#JS-def").fadeToggle();
+  // });
+
+  // $("#JS").click(function() {
+  //   $("#JS-def").fadeToggle();
+  // });
+  // $("#JS-def").click(function() {
+  //   $("#JS-def").fadeToggle();
+  // });
+
+  // $("#JS").click(function() {
+  //   $("#JS-def").fadeToggle();
+  // });
+  // $("#JS-def").click(function() {
+  //   $("#JS-def").fadeToggle();
+  // });
+
+  // $("#JS").click(function() {
+  //   $("#JS-def").fadeToggle();
+  // });
+  // $("#JS-def").click(function() {
+  //   $("#JS-def").fadeToggle();
+  // });
 
 
 
