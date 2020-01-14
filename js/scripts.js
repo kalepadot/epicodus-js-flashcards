@@ -57,82 +57,82 @@ $(document).ready(function() {
     $("#parameters-def").fadeToggle();
   });
 
-  // $("#JS").click(function() {
-  //   $("#JS-def").fadeToggle();
-  // });
-  // $("#JS-def").click(function() {
-  //   $("#JS-def").fadeToggle();
-  // });
+  $("#return").click(function() {
+    $("#return-def").fadeToggle();
+  });
+  $("#return-def").click(function() {
+    $("#return-def").fadeToggle();
+  });
 
-  // $("#JS").click(function() {
-  //   $("#JS-def").fadeToggle();
-  // });
-  // $("#JS-def").click(function() {
-  //   $("#JS-def").fadeToggle();
-  // });
+  $("#chaining").click(function() {
+    $("#chaining-def").fadeToggle();
+  });
+  $("#chaining-def").click(function() {
+    $("#chaining-def").fadeToggle();
+  });
 
-  // $("#JS").click(function() {
-  //   $("#JS-def").fadeToggle();
-  // });
-  // $("#JS-def").click(function() {
-  //   $("#JS-def").fadeToggle();
-  // });
+  $("#strings").click(function() {
+    $("#strings-def").fadeToggle();
+  });
+  $("#strings-def").click(function() {
+    $("#strings-def").fadeToggle();
+  });
 
-  // $("#JS").click(function() {
-  //   $("#JS-def").fadeToggle();
-  // });
-  // $("#JS-def").click(function() {
-  //   $("#JS-def").fadeToggle();
-  // });
+  $("#booleans").click(function() {
+    $("#booleans-def").fadeToggle();
+  });
+  $("#booleans-def").click(function() {
+    $("#booleans-def").fadeToggle();
+  });
 
-  // $("#JS").click(function() {
-  //   $("#JS-def").fadeToggle();
-  // });
-  // $("#JS-def").click(function() {
-  //   $("#JS-def").fadeToggle();
-  // });
+  $("#undefined").click(function() {
+    $("#undefined-def").fadeToggle();
+  });
+  $("#undefined-def").click(function() {
+    $("#undefined-def").fadeToggle();
+  });
 
-  // $("#JS").click(function() {
-  //   $("#JS-def").fadeToggle();
-  // });
-  // $("#JS-def").click(function() {
-  //   $("#JS-def").fadeToggle();
-  // });
+  $("#nan").click(function() {
+    $("#nan-def").fadeToggle();
+  });
+  $("#nan-def").click(function() {
+    $("#nan-def").fadeToggle();
+  });
 
-  // $("#JS").click(function() {
-  //   $("#JS-def").fadeToggle();
-  // });
-  // $("#JS-def").click(function() {
-  //   $("#JS-def").fadeToggle();
-  // });
+  $("#escape").click(function() {
+    $("#escape-def").fadeToggle();
+  });
+  $("#escape-def").click(function() {
+    $("#escape-def").fadeToggle();
+  });
 
-  // $("#JS").click(function() {
-  //   $("#JS-def").fadeToggle();
-  // });
-  // $("#JS-def").click(function() {
-  //   $("#JS-def").fadeToggle();
-  // });
+  $("#alert").click(function() {
+    $("#alert-def").fadeToggle();
+  });
+  $("#alert-def").click(function() {
+    $("#alert-def").fadeToggle();
+  });
 
-  // $("#JS").click(function() {
-  //   $("#JS-def").fadeToggle();
-  // });
-  // $("#JS-def").click(function() {
-  //   $("#JS-def").fadeToggle();
-  // });
+  $("#comments").click(function() {
+    $("#comments-def").fadeToggle();
+  });
+  $("#comments-def").click(function() {
+    $("#comments-def").fadeToggle();
+  });
 
-  // $("#JS").click(function() {
-  //   $("#JS-def").fadeToggle();
-  // });
-  // $("#JS-def").click(function() {
-  //   $("#JS-def").fadeToggle();
-  // });
+  $("#jquery").click(function() {
+    $("#jquery-def").fadeToggle();
+  });
+  $("#jquery-def").click(function() {
+    $("#jquery-def").fadeToggle();
+  });
 
-  // $("#JS").click(function() {
-  //   $("#JS-def").fadeToggle();
-  // });
-  // $("#JS-def").click(function() {
-  //   $("#JS-def").fadeToggle();
-  // });
+  $("#attributes").click(function() {
+    $("#attributes-def").fadeToggle();
+  });
+  $("#attributes-def").click(function() {
+    $("#attributes-def").fadeToggle();
+  });
 
 
 
